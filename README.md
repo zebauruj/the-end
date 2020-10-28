@@ -1,2 +1,2 @@
-# the-end
-using camera property and displayWidth
+# p5.play-boilerplate
+Boiler plate for p5.play
